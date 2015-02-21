@@ -1,0 +1,9 @@
+{
+	"node"      : true,
+	"browser"   : true,
+	"strict"    : true,
+	"curly"     : true,
+	"eqeqeq"    : true,
+	"trailing"  : true,
+	"smarttabs" : true
+}
