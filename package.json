@@ -7,6 +7,7 @@
   "main"        : "gulpfile.js",
   "scripts"     : {
     "prestart"    : "gulp",
+    "postinstall" : "bower install",
     "start"       : "gulp serve",
     "build"       : "gulp",
     "package"     : "gulp dist",
