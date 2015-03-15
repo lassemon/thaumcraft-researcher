@@ -12,7 +12,7 @@
     "build"       : "gulp",
     "clean"       : "gulp clean",
     "package"     : "gulp dist",
-    "test"        : "karma start ./test/karma.conf.js && gulp lint"
+    "test"        : "gulp lint && karma start ./test/karma.conf.js"
   },
   "devDependencies" : {
     "require-dir"              : "^0.1.0",
