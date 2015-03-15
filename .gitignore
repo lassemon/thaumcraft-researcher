@@ -6,3 +6,4 @@ dist
 npm-debug.log
 bower_components
 test/bower_components
+test/target
